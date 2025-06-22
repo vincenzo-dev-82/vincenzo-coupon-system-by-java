@@ -1,0 +1,11 @@
+# Gradle Wrapper JAR 파일
+
+Gradle Wrapper JAR 파일은 바이너리 파일이므로 GitHub에 직접 업로드할 수 없습니다.
+
+이 파일을 생성하려면 다음 명령어를 실행하세요:
+
+```bash
+gradle wrapper --gradle-version 8.7
+```
+
+또는 기존 Gradle 프로젝트에서 wrapper 파일을 복사해오세요.
